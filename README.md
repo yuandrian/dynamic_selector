@@ -15,4 +15,4 @@ I think that this project must work this way. There is also some ability to use 
 
 
 
-To check this work you need only paste all files in one folder and use it in any source code editor.
+To check this work you need only download files from github repository and paste all files in one folder and use it in any source code editor. (VS Code, Sublime, Atom).
