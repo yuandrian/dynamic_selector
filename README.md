@@ -12,3 +12,7 @@ Jquery or Fetch, because it's a local file, i decided to take jquery library.
 
 
 I think that this project must work this way. There is also some ability to use React with different files fuctions and inmport them to a app file.
+
+
+
+To check this work you need only paste all files in one folder and use it in any source code editor.
